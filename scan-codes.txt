@@ -1,4 +1,3 @@
-NumLock 69
 Divide (/)	53
 Multiply (*)	55
 Subtract (-)	74
