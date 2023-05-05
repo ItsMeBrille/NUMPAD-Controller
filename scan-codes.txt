@@ -2,18 +2,22 @@ NumLock 69
 Divide (/)	53
 Multiply (*)	55
 Subtract (-)	74
+
 NumPad7	71
 NumPad8	72
 NumPad9	73
 Add (+)	78
+
 NumPad4	75
 NumPad5	76
 NumPad6	77
+Backspace 14
 
 NumPad1	79
 NumPad2	80
 NumPad3	81
+Enter	28
+
 NumPad0	82
-	
-Decimal (.)	83
-Enter	156
+Keyboard0 (3x) 11
+Decimal (,)	83
